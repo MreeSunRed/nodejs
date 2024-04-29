@@ -1,0 +1,17 @@
+tr:nth-child(odd) {
+  background: red;
+}
+tr:nth-child(even) {
+  background: blue;
+}
+table,
+td {
+  border: solid;
+}
+td {
+  height: 5em;
+  width: 10em;
+}
+body{
+  background-image: linear-gradient(135deg,yellow, green);
+}
